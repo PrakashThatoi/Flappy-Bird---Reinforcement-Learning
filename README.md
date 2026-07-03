@@ -2,11 +2,7 @@
 
 An artificial intelligence agent that learns to play the classic game **Flappy Bird** from scratch using Reinforcement Learning. 
 
-Instead of hardcoding rules or logic, the AI interacts with the game environment, observes the consequences of its actions, and progressively optimizes its gameplay to achieve superhuman performance.
-
-> **[Insert GIF here]** 
-> *(Tip: Add a GIF here showing your AI successfully navigating the pipes!)*
-
+Instead of hardcoding rules or logic, the AI interacts with the game environment, observes the consequences of its actions, and progressively optimizes its gameplay to achieve superhuman performance
 ---
 
 ## 🧠 How the AI Learns (The RL Setup)
